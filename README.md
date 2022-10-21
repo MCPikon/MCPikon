@@ -45,7 +45,7 @@ I like to learn new things constantly and develop projects that people can enjoy
 ### :wrench: Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/MCPikon/MCPikon/main/eclipse.svg" title="Eclipse" alt="Eclipse" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/MCPikon/MCPikon/blob/54beb152a017d93261ebf60055bfd4c223c31e03/eclipse.svg" title="Eclipse" alt="Eclipse" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>
 </div>
 
