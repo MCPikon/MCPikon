@@ -4,10 +4,10 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/javierpiconpastor/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img alt="LinkedIn Badge" src="https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://www.twitter.com/mcpikon/">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img alt="Twitter/X Badge" src="https://img.shields.io/badge/Twitter%2FX-%23000000?style=for-the-badge&logo=x&logoColor=white">
   </a>
 </div>
 
