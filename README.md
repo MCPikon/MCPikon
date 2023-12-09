@@ -20,7 +20,7 @@ Hi everyone! My name is Javier Picón and I'm a junior web developer.
 
 I like to learn new things constantly and develop projects that people can enjoy and use in their lifes. I love computers and have always researched it until I got to where I am today.
 
-### :man_technologist: About me :
+### 👨‍💻 About me :
 
 - 🌱 I’m currently learning React.js, Reflex, Django and more
 - 💬 Ask me about Java, Spring Boot, Python, HTML, CSS, JavaScript, SQL...
@@ -28,7 +28,7 @@ I like to learn new things constantly and develop projects that people can enjoy
 
 ---
 
-### :hammer: Languages :
+### 🔨 Languages :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -45,7 +45,7 @@ I like to learn new things constantly and develop projects that people can enjoy
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>
 </div>
 
-### :wrench: Tools :
+### 🔧 Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
   <img src="https://github.com/MCPikon/MCPikon/blob/main/intellij_idea.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>&nbsp;
@@ -55,7 +55,7 @@ I like to learn new things constantly and develop projects that people can enjoy
 
 ---
 
-### :fire: My Stats :
+### 🔥 My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MCPikon&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
 <br>
