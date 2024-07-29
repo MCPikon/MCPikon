@@ -16,7 +16,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-Hi everyone! My name is Javier Picón and I'm a junior web developer.
+Hi everyone! My name is Javier Picón and I'm a junior java developer.
 
 I like to learn new things constantly and develop projects that people can enjoy and use in their lifes. I love computers and have always researched it until I got to where I am today.
 
