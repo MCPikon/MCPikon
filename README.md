@@ -1,62 +1,61 @@
-<div id="header" align="center">
-  <img src="https://media1.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47x3baphdzz71fsk857xbq8lnq67dutl968b6h5lcn&rid=giphy.gif&ct=s" width="200"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Javier%20Picón&fontSize=50&fontColor=fff&fontAlignY=35&desc=Junior%20Java%20Developer&descAlignY=55&descColor=fff" width="100%"/>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/javierpiconpastor/">
-    <img alt="LinkedIn Badge" src="https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://www.twitter.com/mcpikon/">
-    <img alt="Twitter/X Badge" src="https://img.shields.io/badge/Twitter%2FX-%23000000?style=for-the-badge&logo=x&logoColor=white">
-  </a>
-</div>
+## 👨‍💻 About me
 
-<h1 align="center">
-  Hello there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+Hi! I'm **Javier Picón**, a junior Java developer who is passionate about learning new things and building projects that people can enjoy and use in their daily lives.
 
-Hi everyone! My name is Javier Picón and I'm a junior java developer.
+- 🌱 Currently learning about **AI Development**.
+- 💬 Ask me about **Java**, **Spring Boot**, **Python**, **JavaScript**, or **SQL**
+- 🎮 Fan of videogames, movies, music, and skateboarding
 
-I like to learn new things constantly and develop projects that people can enjoy and use in their lifes. I love computers and have always researched it until I got to where I am today.
-
-### 👨‍💻 About me :
-
-- 🌱 I’m currently learning React.js, Reflex, Django and more
-- 💬 Ask me about Java, Spring Boot, Python, HTML, CSS, JavaScript, SQL...
-- ⚡ More about me: I like playing videogames, watch movies & series, listen to music, skating, etc...
-
----
-
-### 🔨 Languages :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>
-</div>
-
-### 🔧 Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/MCPikon/MCPikon/blob/main/intellij_idea.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/MCPikon/MCPikon/blob/main/eclipse.svg" title="Eclipse" alt="Eclipse" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>
-</div>
-
----
-
-### 🔥 My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MCPikon&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|----------|-------------|-------------|
+| [cinemawebback](https://github.com/MCPikon/cinemawebback) | REST API related to movies, series and its reviews created with Java 17 and Spring Boot 3. | ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=flat&logo=springboot&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white)  |
+| [cinemarustback](https://github.com/MCPikon/cinemarustback) | REST API related to movies, series and its reviews created with Rust and Actix Web. | ![Static Badge](https://img.shields.io/badge/Rust-red?style=flat&logo=rust&logoColor=white) ![Static Badge](https://img.shields.io/badge/Actix%20Web-brown?style=flat&logo=actix&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white)  |
+| [myweb-astro](https://github.com/MCPikon/myweb-astro) | Portfolio website created with Astro, Tailwind CSS and React | ![Astro](https://img.shields.io/badge/Astro-purple?style=flat&logo=astro&logoColor=white) ![Static Badge](https://img.shields.io/badge/TailwindCSS-blue?style=flat&logo=tailwindcss&logoColor=white) ![React](https://img.shields.io/badge/React-navy?style=flat&logo=react&logoColor=white) |
+
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MCPikon&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🔨 Languages & Tech
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" title="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg" title="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" title="Android" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" title="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain.svg" title="Angular" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" title="Git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" title="Docker" width="40" height="40"/>
+</div>
+
+<br>
+
+## 🔧 Tools
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS Code" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" title="PyCharm" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" title="SQL Developer" width="40" height="40"/>
+</div>
+
+<br>
+
+## 📊 My Stats
+
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mcpikon&theme=dark&hide_border=true&border_radius=30&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
