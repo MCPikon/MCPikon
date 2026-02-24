@@ -28,7 +28,7 @@ Hi! I'm **Javier Picón**, a **Backend Developer** focused on building scalable 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/google_vertexai/google_vertexai-icon.svg" title="Vertex AI" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/MCPikon/MCPikon/refs/heads/main/vertexai.svg" title="Vertex AI" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" title="Oracle" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg" title="MongoDB" width="40" height="40"/>&nbsp;
