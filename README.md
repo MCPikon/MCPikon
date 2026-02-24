@@ -1,12 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Javier%20Picón&fontSize=50&fontColor=fff&fontAlignY=35&desc=Java%20Developer&descAlignY=55&descColor=fff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Javier%20Picón&fontSize=50&fontColor=fff&fontAlignY=35&desc=Backend%20Developer&descAlignY=55&descColor=fff" width="100%"/>
 
 ## 👨‍💻 About me
 
-Hi! I'm **Javier Picón**, a Java developer who is passionate about learning new things and building projects that people can enjoy and use in their daily lives.
+Hi! I'm **Javier Picón**, a **Backend Developer** focused on building scalable systems and integrating AI solutions. I have a strong background in the banking sector and a passion for bridging the gap between traditional backend and Generative AI.
 
-- 🌱 Currently learning about **AI Development**.
-- 💬 Ask me about **Java**, **Spring Boot**, **Python**, **JavaScript**, or **SQL**
-- 🎮 Fan of videogames, movies, music, and skateboarding
+- 🤖 Currently working with **Python**, **Vertex AI**, and **Gemini** for intelligent document processing.
+- ☕ Specialist in **Java (Spring Boot)**, microservices, and high-performance Batch processes.
+- 💬 Ask me about **Java**, **Spring Boot**, **Python**, **GenAI (LLMs)**, or **SQL**.
+- 🎮 Fan of videogames, movies, music, and skateboarding 🛹.
 
 <br>
 
@@ -14,8 +15,8 @@ Hi! I'm **Javier Picón**, a Java developer who is passionate about learning new
 
 | Project | Description | Tech |
 |----------|-------------|-------------|
-| [cinemawebback](https://github.com/MCPikon/cinemawebback) | REST API related to movies, series and its reviews created with Java 17 and Spring Boot 3. | ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=flat&logo=springboot&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white)  |
-| [cinemarustback](https://github.com/MCPikon/cinemarustback) | REST API related to movies, series and its reviews created with Rust and Actix Web. | ![Static Badge](https://img.shields.io/badge/Rust-red?style=flat&logo=rust&logoColor=white) ![Static Badge](https://img.shields.io/badge/Actix%20Web-brown?style=flat&logo=actix&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white)  |
+| [cinemawebback](https://github.com/MCPikon/cinemawebback) | REST API related to movies, series and its reviews created with Java 17 and Spring Boot 3. | ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=flat&logo=springboot&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white) |
+| [cinemarustback](https://github.com/MCPikon/cinemarustback) | REST API related to movies, series and its reviews created with Rust and Actix Web. | ![Static Badge](https://img.shields.io/badge/Rust-red?style=flat&logo=rust&logoColor=white) ![Static Badge](https://img.shields.io/badge/Actix%20Web-brown?style=flat&logo=actix&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white) |
 | [myweb-astro](https://github.com/MCPikon/myweb-astro) | Portfolio website created with Astro, Tailwind CSS and React | ![Astro](https://img.shields.io/badge/Astro-purple?style=flat&logo=astro&logoColor=white) ![Static Badge](https://img.shields.io/badge/TailwindCSS-blue?style=flat&logo=tailwindcss&logoColor=white) ![React](https://img.shields.io/badge/React-navy?style=flat&logo=react&logoColor=white) |
 
 <br>
@@ -26,16 +27,15 @@ Hi! I'm **Javier Picón**, a Java developer who is passionate about learning new
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/google_vertexai/google_vertexai-icon.svg" title="Vertex AI" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" title="Oracle" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg" title="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" title="Angular" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" title="Git" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" title="Jenkins" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" title="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" title="Jenkins" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" title="Git" width="40" height="40"/>
 </div>
 
 <br>
@@ -47,7 +47,7 @@ Hi! I'm **Javier Picón**, a Java developer who is passionate about learning new
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS Code" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" title="PyCharm" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" title="SQL Developer" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" title="AWS (S3)" width="40" height="40"/>
 </div>
 
 <br>
